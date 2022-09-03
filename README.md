@@ -1,6 +1,6 @@
 # macro-time-series-2022
 
-Проект 2022 года по временным рядам
+Проект 2022 года по временным макроэкономическим рядам
 
 <https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp095.pdf>
 
