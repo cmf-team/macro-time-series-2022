@@ -23,3 +23,16 @@ def bkxg_filter(series: pd.DataFrame, params: tuple) -> pd.DataFrame:
 def hodrick_prescott_filter(series: pd.DataFrame) -> pd.DataFrame:
     cycle, trend = sm.tsa.filters.hpfilter(series)
     return cycle, trend
+
+def crosscorr(datax: pd.DataFrame, datay: pd.DataFrame, lag: int = 0)->float:
+    """ Lag-N cross correlation. 
+    Parameters
+    ----------
+    lag : int, default 0
+    datax, datay : pandas.Series objects of equal length
+
+    Returns
+    ----------
+    crosscorr : float
+    """
+    return datax.corr(datay.shift(lag))
