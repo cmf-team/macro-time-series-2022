@@ -2,6 +2,12 @@
 
 Проект ЦМФ 2022 года по временным макроэкономическим рядам.
 
+Бранчи команд
+-------------
+
+- https://github.com/cmf-team/macro-time-series-2022/tree/Team-1-Macro-Project
+- https://github.com/cmf-team/macro-time-series-2022/tree/Team-2-Macro-Project
+
 Возможные вопросы
 -----------------
 
