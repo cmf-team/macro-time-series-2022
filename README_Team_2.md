@@ -1,7 +1,7 @@
 # Team 2 Article Replication Project
 
 ## Data Acquisition
-See `Macro_Data_Team_2` for solution of this task.
+See `Macro_Data_Acquisition_Team_2` for solution of this task.
 
 The team has gathered data on US macro time-series using `https://fred.stlouisfed.org` data.
 
