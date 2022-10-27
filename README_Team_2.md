@@ -19,8 +19,6 @@ Contributors to this task: Yudaykin Kirill, Mikhailov Daniil, Matevosova Anastas
 - Inventories: U.S. Bureau of Economic Analysis, Private inventories [A371RC1Q027SBEA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/A371RC1Q027SBEA, October 27, 2022.
 - Wilshire 5000 Full Cap Price Index: Wilshire Associates, Wilshire 5000 Full Cap Price Index [WILL5000PRFC], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/WILL5000PRFC, October 26, 2022.
 
-Contributors to this task:
-
 ## Data Filtering and Results Generation
 See `Macro_Analysis_Team_2.ipynb` for solution.
 
@@ -28,14 +26,14 @@ We have filtered the data to obtain detrended time series using Baxter and King 
 
 After detrending the data, our team has prepared the table analogous to table (3.b) from the article in question.
 
-Contributors to this task: Osipov Alexey
+Contributors to this task: Osipov Alexey, Titov Egor, Medvedev Vsevolod
 
 ## Cross Correlation for Different Filters
 See `Macro_Filtered_Cross_Corr_Team_2.ipynb` for solution.
 
 Several filters mentioned in the article in question were applied to gatherd data. Stationarity analysis with Dickey-fuller test was conducted.
 
-Contributors to this task: Dorofeeva Anastasia, Kaplun Ivan
+Contributors to this task: Dorofeeva Anastasia, Kaplun Ivan, Titov Egor
 
 
 
