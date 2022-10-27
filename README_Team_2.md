@@ -7,7 +7,7 @@ The data was compiled into a pandas DataFrame and uploaded as a .csv file `macro
 
 The DataFrame contains all data points available on each time series. For futher analysis only relevant time period was utilized.
 
-Contributors to this task: Yudaykin Kirill
+Contributors to this task: Yudaykin Kirill, Mikhailov Daniil 
 
 #### Some details on the data
 - GDP: U.S. Bureau of Economic Analysis, Gross Domestic Product [GDP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/GDP, October 26, 2022.
