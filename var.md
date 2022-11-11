@@ -30,6 +30,8 @@ Questions
 1. Large econometric models (3.11.2020)
 
 - What were the examples of large structural econometrics models in 1960s and 1970s?
+  - https://en.wikipedia.org/wiki/Klein%E2%80%93Goldberger_model
+  - https://fairmodel.econ.yale.edu/main.htm 
 - Provide links to specific models found on internet (team 1 vs team 2 vs EP challenge).
 - What is the structure of these models? (EP - bring "white book")
 - Why these models were useful and what is their failure (or "failure")?
